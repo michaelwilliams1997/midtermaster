@@ -1,0 +1,29 @@
+body {
+    background-color:  mediumpurple;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+    font-size: 50px;
+    font-family: "Staatliches";
+    letter-spacing: 5px;
+}
+header {
+  background-color: purple;
+  padding: 25px;
+  margin: auto;
+  position: relative;
+
+}
+
+
+h2 {
+    font-family: "Staatliches";
+padding-left: 520px;
+}
+
+
+img {
+    
+    
